@@ -345,7 +345,7 @@ const Section1 = () => {
               <a href="https://onlyfans.com/zeliamarieee/c5" className='text-[14px] italic text-[#444]'>https://onlyfans.com/zeliamarieee/c5</a>
               <p className='text-[14px]'>
                 I want to be your online gf 🥰 <br />
-                I answer all DMs & love to chat & SEXT with you...so say hi, don’t be shy 🙈 !
+                I answer all DMs & love to chat with you...so say hi, don’t be shy 🙈 !
                 I run this page 💯 by myself so please don’t be rude, be patient, don’t be pushy...
               </p>
               <div className='flex flex-row justify-start items-center space-x-4 !mt-4 cursor-pointer'
@@ -379,7 +379,7 @@ const Section1 = () => {
                 }}
               >
                 <img src={NEWIMG5} className='w-full -sm:w-[100px]' />
-                <p>You know it's said that the color of your nipples matches the color of your puss😺? :P Wanna find out? 😛 DM ME!❤️</p>
+                <p>I know it's a bit late but how do i look in my costume? 🤭</p>
               </div>
               {/* <div className='flex flex-col justify-start items-start space-y-2 cursor-pointer -sm:flex-row -sm:space-y-0 -sm:space-x-2'
                 onClick={() => {
@@ -405,7 +405,7 @@ const Section1 = () => {
             <a href="https://onlyfans.com/zeliamarieee/c5" className='text-[12px] italic text-[#444]'>https://onlyfans.com/zeliamarieee/c5</a>
             <p className='text-[12px] text-center px-4'>
               I want to be your online gf 🥰 <br />
-              I answer all DMs & love to chat & SEXT with you...so say hi, don’t be shy 🙈 !
+              I answer all DMs & love to chat with you...so say hi, don’t be shy 🙈 !
               I run this page 💯 by myself so please don’t be rude, be patient, don’t be pushy...
             </p>
           </div>
@@ -422,7 +422,7 @@ const Section1 = () => {
                 <img src={NEWIMG4} className='w-[100px]' />
                 <p>
                   Ready for Weekend 🍑 <br />
-                  <span className='text-[#767676] text-[11px] italic'>Feb 17, 2023</span>
+                  <span className='text-[#767676] text-[11px] italic'>May 11, 2023</span>
                 </p>
               </div>
               <div className='flex flex-row justify-start items-start space-x-2 cursor-pointer'
@@ -432,8 +432,8 @@ const Section1 = () => {
               >
                 <img src={NEWIMG5} className='w-[100px]' />
                 <p>
-                  You know it's said that the color of your... <br />
-                  <span className='text-[#767676] text-[11px] italic'>Jan 12, 2023</span>
+                  I know it's a bit late but how do i look in my costume? 🤭 <br />
+                  <span className='text-[#767676] text-[11px] italic'>May 8, 2023</span>
                 </p>
               </div>
               {/* <div className='flex flex-row justify-start items-start space-x-2 cursor-pointer'
